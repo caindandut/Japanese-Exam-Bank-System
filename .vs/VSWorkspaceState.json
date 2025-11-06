@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\com",
+    "\\src\\com\\exammanager",
+    "\\src\\com\\exammanager\\nganhangdethi",
+    "\\src\\com\\exammanager\\nganhangdethi\\dao",
+    "\\src\\com\\exammanager\\nganhangdethi\\gui",
+    "\\src\\com\\exammanager\\nganhangdethi\\main",
+    "\\src\\com\\exammanager\\nganhangdethi\\model",
+    "\\src\\com\\exammanager\\nganhangdethi\\service"
+  ],
+  "SelectedNode": "\\src\\com\\exammanager\\nganhangdethi\\dao\\DatabaseConnector.java",
+  "PreviewInSolutionExplorer": false
+}

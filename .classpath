@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections4-4.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-compress-1.26.1.jar"/>
+	<classpathentry kind="lib" path="lib/curvesapi-1.08.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-api-2.23.1.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-j-9.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/pdfbox-app-2.0.34.jar"/>
+	<classpathentry kind="lib" path="lib/poi-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-lite-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/xmlbeans-5.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.16.1.jar"/>
+	<classpathentry kind="lib" path="lib/tritonus_share-0.3.6.jar"/>
+	<classpathentry kind="lib" path="lib/mp3spi-1.9.5-1.jar"/>
+	<classpathentry kind="lib" path="lib/jlayer-1.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
