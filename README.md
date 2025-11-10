@@ -135,13 +135,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 👥 Authors
-
-- Your Name - Initial work
 
 ## 🙏 Acknowledgments
 
@@ -149,7 +142,4 @@ This project is open source and available under the [MIT License](LICENSE).
 - Apache Software Foundation for POI and PDFBox libraries
 - MySQL community for the excellent database system
 
-
-
-**Note**: This application is designed for educational purposes to help manage Japanese language exam questions and generate practice tests for JLPT preparation.
 
